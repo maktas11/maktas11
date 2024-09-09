@@ -5,7 +5,7 @@
 I'm a passionate programmer that likes to learn and grow while working. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maktas11&label=Profile%20views&color=0e75b6&style=flat" alt="maktas11" /> </p>
 
-<p align="left"> <a href="https://github.com/maktas11/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maktas11&color=fdf6e3" alt="maktas11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maktas11&color=fdf6e3" alt="maktas11" /></a> </p>
 
 ---
 
